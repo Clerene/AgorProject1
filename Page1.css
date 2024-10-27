@@ -1,0 +1,28 @@
+img {
+    height: 650px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    filter: drop-shadow(10px 10px 30px rgb(161, 255, 10));
+}
+
+strong {
+    font-size: 20px;
+}
+
+.st{
+    font-size: 18px;
+}
+
+.Author1 {
+    background-color: rgb(246, 124, 2);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-size: 18px; 
+}
+
+
